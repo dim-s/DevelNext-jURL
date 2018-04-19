@@ -2,4 +2,4 @@ name: jurl
 version: 1.0.0
 
 sources:
-- /src/vendor/develnext.bundle.jurl.jURLBundle
+- src/vendor/develnext.bundle.jurl.jURLBundle
